@@ -1,3 +1,5 @@
+# Used API from https://www.omdbapi.com/ to get Movie Information
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
